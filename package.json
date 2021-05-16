@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'this will be executed'"
+    "build": "write-host 'this will be executed'"
   },
   "keywords": [],
   "author": "",
